@@ -10,7 +10,7 @@ This software is free for anybody to use and download , however distribution, re
 
 # Instructions
 
-1. Download *local-muscriptor-release2-0-setup.rar* from the here.  
+1. Download *local-muscriptor-release2-0-setup.rar* from [Download link will be added shortly].  
 2. Extract the rar file using WinRaR or 7Zip  
 3. Install the included *MuScriptor_Studio_Setup_x64  
 4. The app should be installed with a shortcut on your desktop.  
