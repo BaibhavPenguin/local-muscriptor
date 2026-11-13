@@ -1,0 +1,20 @@
+END-USER LICENSE AGREEMENT (EULA)
+Copyright (c) 2026 Baibhav Bhattacharya. All Rights Reserved.
+
+1. Grant of License
+You are granted a free, non-exclusive, non-transferable, revocable license to download, install, and run the compiled or packaged release files ("Software") solely for your own personal or internal business purposes.
+
+2. Restrictions
+Unless expressly permitted by applicable law, you may NOT:
+- Copy, mirror, re-upload, host, or redistribute the Software, its archives, or any of its bundled files to any third party, website, or public platform.
+- Sell, rent, lease, sublicense, or commercially exploit the Software.
+- Extract, unpack, decompile, disassemble, or reverse engineer the packaged application, bytecode, or bundled executables to recover source code or proprietary assets.
+
+3. Third-Party Open-Source Components
+This Software includes or bundles third-party open-source libraries, packages, and runtime components (including Python and related dependencies). Those components are governed by their respective open-source licenses, which are included "AS IS" within the Software package (such as in a THIRD_PARTY_LICENSES file or notices directory). Nothing in this Agreement restricts your rights under those applicable open-source licenses regarding those specific third-party components.
+
+4. Ownership
+The Software is licensed, not sold. All title, ownership rights, and intellectual property rights in and to the Software remain exclusively with Baibhav Bhattacharya.
+
+5. Disclaimer of Warranty and Limitation of Liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
