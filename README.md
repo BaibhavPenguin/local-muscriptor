@@ -10,12 +10,13 @@ This software is free for anybody to use and download , however distribution, re
 
 # Instructions
 
-1. Download *local-muscriptor-release2-0-setup.rar* from [Download link will be added shortly].  
+1. Download *local-muscriptor-release2-0-setup.rar* from [Google Drive](https://drive.google.com/file/d/1APndamnHL8X4K6m5rojO3b24UWhadBQp/view?usp=sharing).  
 2. Extract the rar file using WinRaR or 7Zip  
-3. Install the included *MuScriptor_Studio_Setup_x64  
+3. Install the included *MuScriptor_Studio_Setup_x64,exe*   
 4. The app should be installed with a shortcut on your desktop.  
 
-**NOTE : Local MuScriptor is only availabe for Windows 10/11**  
+**NOTE : Local MuScriptor is only available for Windows 10/11**  
+*The installer is available on Google Drive because it is ~3.86 GB in size and such large files cannot be directly hosted on Github*
 
 # Credits
 The Local MuScriptor wrapper has been developed by **Baibhav Bhattacharya**.  
