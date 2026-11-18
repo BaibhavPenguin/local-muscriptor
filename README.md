@@ -1,6 +1,6 @@
 # Local MuScriptor
-Local MuScriptor or MuScriptor Studio 2.1 is a completely offline and zero dependency wrapper around MuScriptor. It bundles the MuScriptor Medium Model and its WebUI in a zero dependency two click installer for completely offline operation.  
-It supports exporting .midi files and all the time stretching options however, exporting as a transcribed wave or sheet music has not been implemented and there are no plans for it till now.  
+Local MuScriptor or MuScriptor Studio is a completely offline and zero dependency wrapper around MuScriptor. It bundles the MuScriptor Medium Model and its WebUI in a zero dependency two click installer for completely offline operation.  
+The latest **MUScriptor Studio 2.1** supports exporting as MIDI , Wave and Sheet Music via MuseScore and FluidSynth integration.  
 
 Local MuScriptor or MuScriptor Studio is named such due to its completely offline nature and strict usage of the CPU instead of relying on GPU & CUDA in consideration of Studio Workstations which may not have NVIDIA Graphics Cards due to DPC Latency issues.  
 
